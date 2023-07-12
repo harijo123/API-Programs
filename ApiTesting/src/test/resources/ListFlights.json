@@ -1,0 +1,54 @@
+{
+	"page": 1,
+	"per_page": 2,
+	"total": 3,
+	"total_pages": 4,
+	"data": [
+		{
+			"id": 123,
+			"flightName": "russia air",
+			"Country": "russia",
+			"Destinations": "321",
+			"URL": "http//mayavaram"
+		},
+		{
+			"id": 999,
+			"flightName": "china air",
+			"Country": "china",
+			"Destinations": "000",
+			"URL": "http//trichy"
+		},
+		{
+			"id": 777,
+			"flightName": "india air",
+			"Country": "india",
+			"Destinations": "888",
+			"URL": "http//chennai"
+		},
+		{
+			"id": 555,
+			"flightName": "eu air",
+			"Country": "eu",
+			"Destinations": "666",
+			"URL": "http//guindy"
+		},
+		{
+			"id": 333,
+			"flightName": "usa air",
+			"Country": "usa",
+			"Destinations": "444",
+			"URL": "http//ecr"
+		},
+		{
+			"id": 111,
+			"flightName": "canada air",
+			"Country": "canada",
+			"Destinations": "222",
+			"URL": "http//omr"
+		}
+	],
+	"support": {
+		"url": "http//world",
+		"text": "wow"
+	}
+}
